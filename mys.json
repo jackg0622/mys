@@ -57,70 +57,70 @@
      "searchable": 1,
      "quickSearch": 1,
      "filterable": 0,
-     "ext": "https://jackg0622.github.io/mys/dm84.json"
+     "ext": "http://mystv.gitee.io/mys/mysdm84.json"
 },
 
 
-{"key":"csp_appysv2_手指影视","name":"手指影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"手指影视###https://jackg0622.github.io/mys/appys.json"},
-{"key":"csp_appysv2_1080p","name":"1080p(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"1080p###https://jackg0622.github.io/mys/appys.json"},
-{"key":"csp_appysv2_DC影视","name":"DC影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"DC影视###https://jackg0622.github.io/mys/appys.json"},
-{"key":"csp_appysv2_300看世界","name":"300看世界(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"300看世界###https://jackg0622.github.io/mys/appys.json"},
+{"key":"csp_appysv2_手指影视","name":"手指影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"手指影视###http://mystv.gitee.io/mys/mysappys.json"},
+{"key":"csp_appysv2_1080p","name":"1080p(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"1080p###http://mystv.gitee.io/mys/mysappys.json"},
+{"key":"csp_appysv2_DC影视","name":"DC影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"DC影视###http://mystv.gitee.io/mys/mysappys.json"},
+{"key":"csp_appysv2_300看世界","name":"300看世界(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"300看世界###http://mystv.gitee.io/mys/mysappys.json"},
 
 
 
-{"key":"csp_appysv2_F7高清","name":"F7高清(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"F7高清###https://jackg0622.github.io/mys/appys.json"},
-{"key":"csp_appysv2_HG影视","name":"HG影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"HG影视###https://jackg0622.github.io/mys/appys.json"},
+{"key":"csp_appysv2_F7高清","name":"F7高清(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"F7高清###http://mystv.gitee.io/mys/mysappys.json"},
+{"key":"csp_appysv2_HG影视","name":"HG影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"HG影视###http://mystv.gitee.io/mys/mysappys.json"},
 
-{"key":"csp_appysv2_爱看美剧","name":"爱看美剧(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"爱看美剧###https://jackg0622.github.io/mys/appys.json"},
-{"key":"csp_appysv2_爱酷影视","name":"爱酷影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"爱酷影视###https://jackg0622.github.io/mys/appys.json"},
-
-
-{"key":"csp_appysv2_白嫖影视","name":"白嫖影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"白嫖影视###https://jackg0622.github.io/mys/appys.json"},
-{"key":"csp_appysv2_初心影视","name":"初心影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"初心影视###https://jackg0622.github.io/mys/appys.json"},
-{"key":"csp_appysv2_独播社","name":"独播社(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"独播社###https://jackg0622.github.io/mys/appys.json"},
-{"key":"csp_appysv2_叮当影视","name":"叮当影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"叮当影视###https://jackg0622.github.io/mys/appys.json"},
-{"key":"csp_appysv2_段友影视","name":"段友影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"段友影视###https://jackg0622.github.io/mys/appys.json"},
-{"key":"csp_appysv2_段友2影视","name":"段友2影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"段友2影视###https://jackg0622.github.io/mys/appys.json"},
-{"key":"csp_appysv2_饭后电影","name":"饭后电影(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"饭后电影###https://jackg0622.github.io/mys/appys.json"},
-{"key":"csp_appysv2_飞捷影视","name":"飞捷影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"飞捷影视###https://jackg0622.github.io/mys/appys.json"},
-
-{"key":"csp_appysv2_粉象视界","name":"粉象视界(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"粉象视界###https://jackg0622.github.io/mys/appys.json"},
-
-{"key":"csp_appysv2_虎猫视频","name":"虎猫视频(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"虎猫视频###https://jackg0622.github.io/mys/appys.json"},
-
-{"key":"csp_appysv2_康耀影视","name":"康耀影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"康耀影视###https://jackg0622.github.io/mys/appys.json"},
-{"key":"csp_appysv2_绿箭影视","name":"绿箭影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"绿箭影视###https://jackg0622.github.io/mys/appys.json"},
-{"key":"csp_appysv2_零刻影院","name":"零刻影院(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"零刻影院###https://jackg0622.github.io/mys/appys.json"},
+{"key":"csp_appysv2_爱看美剧","name":"爱看美剧(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"爱看美剧###http://mystv.gitee.io/mys/mysappys.json"},
+{"key":"csp_appysv2_爱酷影视","name":"爱酷影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"爱酷影视###http://mystv.gitee.io/mys/mysappys.json"},
 
 
-{"key":"csp_appysv2_蜜蜂影视","name":"蜜蜂影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"蜜蜂影视###https://jackg0622.github.io/mys/appys.json"},
-{"key":"csp_appysv2_麻瓜视频","name":"麻瓜视频(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"麻瓜视频###https://jackg0622.github.io/mys/appys.json"},
-{"key":"csp_appysv2_美剧虫","name":"美剧虫(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"美剧虫###https://jackg0622.github.io/mys/appys.json"},
+{"key":"csp_appysv2_白嫖影视","name":"白嫖影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"白嫖影视###http://mystv.gitee.io/mys/mysappys.json"},
+{"key":"csp_appysv2_初心影视","name":"初心影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"初心影视###http://mystv.gitee.io/mys/mysappys.json"},
+{"key":"csp_appysv2_独播社","name":"独播社(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"独播社###http://mystv.gitee.io/mys/mysappys.json"},
+{"key":"csp_appysv2_叮当影视","name":"叮当影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"叮当影视###http://mystv.gitee.io/mys/mysappys.json"},
+{"key":"csp_appysv2_段友影视","name":"段友影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"段友影视###http://mystv.gitee.io/mys/mysappys.json"},
+{"key":"csp_appysv2_段友2影视","name":"段友2影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"段友2影视###http://mystv.gitee.io/mys/mysappys.json"},
+{"key":"csp_appysv2_饭后电影","name":"饭后电影(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"饭后电影###http://mystv.gitee.io/mys/mysappys.json"},
+{"key":"csp_appysv2_飞捷影视","name":"飞捷影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"飞捷影视###http://mystv.gitee.io/mys/mysappys.json"},
 
-{"key":"csp_appysv2_奈非迷","name":"奈非迷(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"奈非迷###https://jackg0622.github.io/mys/appys.json"},
-{"key":"csp_appysv2_暖光影视","name":"暖光影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"暖光影视###https://jackg0622.github.io/mys/appys.json"},
-{"key":"csp_appysv2_念念影视","name":"念念影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"念念影视###https://jackg0622.github.io/mys/appys.json"},
-{"key":"csp_appysv2_柠柚影视","name":"柠柚影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"柠柚影视###https://jackg0622.github.io/mys/appys.json"},
+{"key":"csp_appysv2_粉象视界","name":"粉象视界(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"粉象视界###http://mystv.gitee.io/mys/mysappys.json"},
+
+{"key":"csp_appysv2_虎猫视频","name":"虎猫视频(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"虎猫视频###http://mystv.gitee.io/mys/mysappys.json"},
+
+{"key":"csp_appysv2_康耀影视","name":"康耀影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"康耀影视###http://mystv.gitee.io/mys/mysappys.json"},
+{"key":"csp_appysv2_绿箭影视","name":"绿箭影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"绿箭影视###http://mystv.gitee.io/mys/mysappys.json"},
+{"key":"csp_appysv2_零刻影院","name":"零刻影院(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"零刻影院###http://mystv.gitee.io/mys/mysappys.json"},
+
+
+{"key":"csp_appysv2_蜜蜂影视","name":"蜜蜂影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"蜜蜂影视###http://mystv.gitee.io/mys/mysappys.json"},
+{"key":"csp_appysv2_麻瓜视频","name":"麻瓜视频(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"麻瓜视频###http://mystv.gitee.io/mys/mysappys.json"},
+{"key":"csp_appysv2_美剧虫","name":"美剧虫(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"美剧虫###http://mystv.gitee.io/mys/mysappys.json"},
+
+{"key":"csp_appysv2_奈非迷","name":"奈非迷(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"奈非迷###http://mystv.gitee.io/mys/mysappys.json"},
+{"key":"csp_appysv2_暖光影视","name":"暖光影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"暖光影视###http://mystv.gitee.io/mys/mysappys.json"},
+{"key":"csp_appysv2_念念影视","name":"念念影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"念念影视###http://mystv.gitee.io/mys/mysappys.json"},
+{"key":"csp_appysv2_柠柚影视","name":"柠柚影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"柠柚影视###http://mystv.gitee.io/mys/mysappys.json"},
 
 
 
 
-{"key":"csp_appysv2_思乐影视","name":"思乐影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"思乐影视###https://jackg0622.github.io/mys/appys.json"},
+{"key":"csp_appysv2_思乐影视","name":"思乐影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"思乐影视###http://mystv.gitee.io/mys/mysappys.json"},
 
-{"key":"csp_appysv2_天天影视","name":"天天影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"天天影视###https://jackg0622.github.io/mys/appys.json"},
-{"key":"csp_appysv2_小白动漫","name":"小白动漫(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"小白动漫###https://jackg0622.github.io/mys/appys.json"},
+{"key":"csp_appysv2_天天影视","name":"天天影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"天天影视###http://mystv.gitee.io/mys/mysappys.json"},
+{"key":"csp_appysv2_小白动漫","name":"小白动漫(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"小白动漫###http://mystv.gitee.io/mys/mysappys.json"},
 
-{"key":"csp_appysv2_兄弟影视","name":"兄弟影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"兄弟影视视###https://jackg0622.github.io/mys/appys.json"},
-{"key":"csp_appysv2_小极影视","name":"小极影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"小极影视###https://jackg0622.github.io/mys/appys.json"},
-{"key":"csp_appysv2_心鸾影视","name":"心鸾影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"心鸾影视###https://jackg0622.github.io/mys/appys.json"},
+{"key":"csp_appysv2_兄弟影视","name":"兄弟影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"兄弟影视视###http://mystv.gitee.io/mys/mysappys.json"},
+{"key":"csp_appysv2_小极影视","name":"小极影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"小极影视###http://mystv.gitee.io/mys/mysappys.json"},
+{"key":"csp_appysv2_心鸾影视","name":"心鸾影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"心鸾影视###http://mystv.gitee.io/mys/mysappys.json"},
 
-{"key":"csp_appysv2_益达影院","name":"益达影院(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"益达影院###https://jackg0622.github.io/mys/appys.json"},
-{"key":"csp_appysv2_雨果影视","name":"雨果影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"雨果影视###https://jackg0622.github.io/mys/appys.json"},
-{"key":"csp_appysv2_影视大全","name":"影视大全(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"影视大全###https://jackg0622.github.io/mys/appys.json"},
-{"key":"csp_appysv2_月色影视","name":"月色影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"月色影视###https://jackg0622.github.io/mys/appys.json"},
-{"key":"csp_appysv2_优视影视","name":"优视影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"优视影视###https://jackg0622.github.io/mys/appys.json"},
-{"key":"csp_appysv2_影阅阁","name":"影阅阁(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"影阅阁###https://jackg0622.github.io/mys/appys.json"},
-{"key":"csp_appysv2_追剧吧","name":"追剧吧(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"追剧吧###https://jackg0622.github.io/mys/appys.json"}
+{"key":"csp_appysv2_益达影院","name":"益达影院(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"益达影院###http://mystv.gitee.io/mys/mysappys.json"},
+{"key":"csp_appysv2_雨果影视","name":"雨果影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"雨果影视###http://mystv.gitee.io/mys/mysappys.json"},
+{"key":"csp_appysv2_影视大全","name":"影视大全(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"影视大全###http://mystv.gitee.io/mys/mysappys.json"},
+{"key":"csp_appysv2_月色影视","name":"月色影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"月色影视###http://mystv.gitee.io/mys/mysappys.json"},
+{"key":"csp_appysv2_优视影视","name":"优视影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"优视影视###http://mystv.gitee.io/mys/mysappys.json"},
+{"key":"csp_appysv2_影阅阁","name":"影阅阁(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"影阅阁###http://mystv.gitee.io/mys/mysappys.json"},
+{"key":"csp_appysv2_追剧吧","name":"追剧吧(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"追剧吧###http://mystv.gitee.io/mys/mysappys.json"}
 
  ],
 
@@ -869,7 +869,7 @@
     "xigua",
     "bilibili"
   ],
-  "spider": "https://jackg0622.github.io/mys/custom_spider.jar",
+  "spider": "http://mystv.gitee.io/mys/custom_spider.jar",
 
   "ijk": [
     {
