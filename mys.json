@@ -19,6 +19,14 @@
     "playUrl": "",
     "categories": []
 },
+   {
+    "key": "测试",
+    "name": "测试",
+    "type": 0,
+    "api": "http://ibuka.love:52018/sk-api/vod/list",
+    "playUrl": "",
+    "categories": []
+},
  {
     "key": "Mux资源",
     "name": "Mux资源",
