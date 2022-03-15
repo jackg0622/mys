@@ -28,6 +28,8 @@
     "categories": []
 },
 
+ {"key":"csp_appysv2_粉象视界","name":"粉象视界(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"粉象视界###https://jackg0622.github.io/mys/appys.json"},
+
 {
   "key": "csp_Cokemv",
   "name": "Cokemv(爬虫)",
@@ -84,7 +86,6 @@
 {"key":"csp_appysv2_饭后电影","name":"饭后电影(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"饭后电影###https://jackg0622.github.io/mys/appys.json"},
 {"key":"csp_appysv2_飞捷影视","name":"飞捷影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"飞捷影视###https://jackg0622.github.io/mys/appys.json"},
 
-{"key":"csp_appysv2_粉象视界","name":"粉象视界(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"粉象视界###https://jackg0622.github.io/mys/appys.json"},
 
 {"key":"csp_appysv2_虎猫视频","name":"虎猫视频(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"虎猫视频###https://jackg0622.github.io/mys/appys.json"},
 
